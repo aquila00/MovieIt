@@ -1,4 +1,5 @@
 # MovieIt
+Trabalho 
 Sistemas de Recomendação - Professor Wladmir Cardoso Brandão - PPGINF - PUCMinas
 
 Introdução: O Problema de Recomendação:
